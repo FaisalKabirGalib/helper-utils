@@ -1,5 +1,4 @@
-# We create a bunch of helpful functions throughout the course.
-# Storing them here so they're easily accessible.
+
 
 import datetime
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
